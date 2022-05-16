@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
 img .bee {
     position: absolute;
     left: 3.15%;
@@ -5,4 +7,14 @@ img .bee {
     top: 2.13%;
     bottom: 92.22%;
     transform: rotate(29deg);
+}
+
+.navbar-brand {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.navbar-nav {
+    font-family: 'Montserrat',
+    sans-serif;
 }
