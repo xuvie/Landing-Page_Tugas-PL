@@ -17,4 +17,16 @@ img .bee {
 .navbar-nav {
     font-family: 'Montserrat',
     sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.315em;
+    
+}
+
+.bee {
+    transform: rotate(29deg);
+    margin-bottom: 25px;
 }
