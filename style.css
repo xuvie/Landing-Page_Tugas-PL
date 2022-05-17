@@ -22,8 +22,8 @@ img .bee {
     line-height: 29px;
     display: flex;
     align-items: center;
-    letter-spacing: 0.315em;
-    
+    letter-spacing: 0.215em;
+    margin-left: 25px;
 }
 
 .bee {
