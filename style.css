@@ -1,32 +1,49 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
 
 img .bee {
-    position: absolute;
-    left: 3.15%;
-    right: 93.51%;
-    top: 2.13%;
-    bottom: 92.22%;
-    transform: rotate(29deg);
+	position: absolute;
+	left: 3.15%;
+	right: 93.51%;
+	top: 2.13%;
+	bottom: 92.22%;
+	transform: rotate(29deg);
 }
 
 .navbar-brand {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 700;
+	font-family: "Montserrat", sans-serif;
+	font-weight: 700;
 }
 
 .navbar-nav {
-    font-family: 'Montserrat',
-    sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 29px;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.215em;
-    margin-left: 25px;
+	font-family: "Montserrat", sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	line-height: 29px;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.215em;
+	margin-left: 25px;
 }
 
 .bee {
-    transform: rotate(29deg);
-    margin-bottom: 25px;
+	transform: rotate(29deg);
+	margin-bottom: 25px;
+}
+
+.vector1 {
+	position: absolute;
+	left: 70.83%;
+	right: 0%;
+	top: 0%;
+	bottom: 41.76%;
+    size: 50%;
+}
+
+.vector2 {
+	position: absolute;
+	left: 0%;
+	right: 51.41%;
+	top: 40.82%;
+	bottom: 0%;
+    size: 50%;
 }
