@@ -15,4 +15,8 @@ button.addEventListener("click", (e) => {
 			element.classList.remove("expanded");
 		});
 	}, 1700);
+
+	setTimeout(() => {
+		location.href = "login/login.html";
+	}, 1900);
 });
