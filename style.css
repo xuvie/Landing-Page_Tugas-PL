@@ -31,19 +31,61 @@ img .bee {
 }
 
 .vector1 {
-    overflow:hidden;
-    position: absolute;
-    right: 0;
-    width:400px;
-    top: 0%;
-    bottom: 41.76%;
-
+	overflow: hidden;
+	position: absolute;
+	right: 0;
+	width: 400px;
+	top: 0%;
+	bottom: 41.76%;
 }
 
 .vector2 {
-    overflow:hidden;
-    position: absolute;
-    width:500px;
-    top: 100;
-    bottom: 0;
+	overflow: hidden;
+	position: absolute;
+	width: 500px;
+	top: 100;
+	bottom: 0;
+}
+
+.calendar {
+	position: absolute;
+	left: 55.23%;
+	right: 0%;
+	top: 9.44%;
+	bottom: 25.76%;
+}
+
+.tagline {
+	font-family: "Montserrat";
+	font-weight: 500;
+	font-size: 80px;
+	line-height: 100px;
+	display: flex;
+	align-items: center;
+	font-style: normal;
+
+	position: absolute;
+	left: 4.89%;
+	right: 22.97%;
+	top: 41.2%;
+	bottom: 49.91%;
+}
+
+.button {
+	position: absolute;
+	left: 10.15%;
+	right: 65%;
+	top: 59.91%;
+	bottom: 26.76%;
+
+	border: 1px solid #000000;
+	box-shadow: 0px 3px 11px 2px rgba(0, 0, 0, 0.25);
+	border-radius: 20px;
+	background-color: transparent;
+}
+
+.button span {
+	font-family: 'Montserrat';
+	font-weight: 400;
+	font-size: 30px;
 }
