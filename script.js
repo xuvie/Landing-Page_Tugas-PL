@@ -17,6 +17,6 @@ button.addEventListener("click", (e) => {
 	}, 1700);
 
 	setTimeout(() => {
-		location.href = "login/login.html";
+		location.href = "./login.html";
 	}, 1900);
 });
