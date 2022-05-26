@@ -17,6 +17,6 @@ button.addEventListener("click", (e) => {
 	}, 1700);
 
 	setTimeout(() => {
-		location.href = "./login.html";
+		location.href = "https://beebetter.netlify.app/login2";
 	}, 1900);
 });
